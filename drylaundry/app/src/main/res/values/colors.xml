@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+<color name="colorPrimaryDark">#00574B</color>
+<color name="colorAccent">#D81B60</color>
+<color name="bening">#DEFAF7</color>
+<color name="baack">#496E94</color>
+<color name="colorsTextDefault">#202020</color>
+<color name="background">#7EB3EB</color>
+<color name="maincolor">#23856D</color>
+<color name="colorsoft">#E0FFFF</color>
+<color name="line">#B4BEBE</color>
+    <color name="button">#80C97B</color>
+    </resources>
